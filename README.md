@@ -26,5 +26,5 @@ El sistema es controlado mediante un joystick, que proporciona una interfaz simp
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/brazo-robotico.git
+   git clone [https://github.com/tuusuario/brazo-robotico.git](https://github.com/BRAYTON-CHANA/Brazo-Robotico-Reciclable-)
    cd brazo-robotico
