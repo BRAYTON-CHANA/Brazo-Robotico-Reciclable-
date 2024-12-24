@@ -20,7 +20,7 @@ El sistema es controlado mediante un joystick, que proporciona una interfaz simp
 
 ## Diseño del Robot
 
-_Imagen del diseño del brazo robótico aquí._
+![diseñobrazo](https://github.com/user-attachments/assets/054cbb39-98c2-488c-b008-583a2e07e514)
 
 ## Instalación y Uso
 
